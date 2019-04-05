@@ -10,5 +10,5 @@ var app=http.createServer(function (req, res) {
   //outputs string with line end symbol
 }).listen(8000, "0.0.0.0");
 //sets port and IP address of the server
-console.log('Server running on port 80');
+console.log('Server running on port 8000');
 
